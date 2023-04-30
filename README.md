@@ -28,4 +28,4 @@
 
 ## Author
 
-- `Krishna bhamare`
+- `Digambar Shinde`
