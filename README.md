@@ -2,7 +2,7 @@
 
 ### TO Run Demo
 
-- `git clone https://github.com/Krishna7852/Mobile-Store-ReactJs.git`
+- `git clone https://github.com/Digambar23/Mobile-Store-ReactJs.git`
 
 - `cd Mobile-Store-ReactJs`
 
